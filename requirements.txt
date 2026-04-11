@@ -1,0 +1,11 @@
+langchain
+langchain-community
+chromadb
+sentence-transformers
+ollama
+PyQt6
+pypdf
+python-docx
+reportlab
+pandas
+python-dotenv
