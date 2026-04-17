@@ -1,2 +1,2 @@
 # AI-Decision-Making-System-for-MEON-Electronics
-AI-powered sales and decision-support system for MEON, a virtual electronics company. It replaces traditional sales reps with intelligent product recommendations and voice/text interaction, using a knowledge base and external AI for complex queries, improving efficiency and customer engagement.
+Designed and developed an AI-powered decision support system to assist organizational decision-making processes. The system analyzes structured data and provides intelligent recommendations using a knowledge base integrated with external AI models, improving efficiency and accuracy across business operations.
